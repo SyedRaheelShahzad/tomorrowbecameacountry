@@ -1,8 +1,20 @@
-# Tomorrow Became a Country
+# Tomorrow Became a Country | غَدٌ صَارَ وَطَنًا
 
-**Official public book reference for _Tomorrow Became a Country: How the UAE Engineered the Future as One System_ by Syed Raheel Shahzad**
+**Official public book, author, publisher, ISBN, research and bibliographic reference for _Tomorrow Became a Country: How the UAE Engineered the Future as One System_ by Syed Raheel Shahzad — سيد راحيل شهزاد.**
 
-![Tomorrow Became a Country by Syed Raheel Shahzad](https://tomorrowbecameacountry.com/wp-content/uploads/2026/06/Tomorrow-Became-a-Country-Book-Cover.jpg)
+<p align="center">
+  <a href="https://www.TomorrowBecameACountry.com">
+    <img src="https://syedraheelshahzad.com/wp-content/uploads/2026/07/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad.jpg" alt="Official cover of Tomorrow Became a Country — غَدٌ صَارَ وَطَنًا — by Syed Raheel Shahzad — سيد راحيل شهزاد" width="360">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Tomorrow Became a Country</strong><br>
+  <strong>غَدٌ صَارَ وَطَنًا</strong><br>
+  <em>How the UAE Engineered the Future as One System</em><br><br>
+  Syed Raheel Shahzad · سيد راحيل شهزاد<br>
+  The Syed Group · 2026
+</p>
 
 _Tomorrow Became a Country_ is an independent, evidence-based systems study of the United Arab Emirates by **Syed Raheel Shahzad** — Author, Group CEO, Business Strategist, Systems Thinker & Architect.
 
@@ -10,87 +22,121 @@ The book examines how a place with few of the conventional conditions associated
 
 It does not treat the UAE as a skyline, a tourism product, a business brochure, or a collection of isolated achievements.
 
-It treats the UAE as a system.
+**It treats the UAE as a system.**
 
 > **البُرهانُ أصدَقُ من المديح.**  
 > _Proof is more truthful than praise._
 
-Official book website:
+> **The future was not only imagined. It was organised.**
 
-https://www.TomorrowBecameACountry.com
+**Official book website:** https://www.TomorrowBecameACountry.com
 
 ---
 
-## Official Book Identity
+## Current Official Record — August 2026
 
 | Field | Official Reference |
 |---|---|
-| English Title | Tomorrow Became a Country |
-| Arabic Title | غَدٌ صَارَ وَطَنًا |
-| Subtitle | How the UAE Engineered the Future as One System |
-| Secondary Institutional Line | A systems inquiry into vision, law, execution, openness, growth, and the architecture of a working future |
-| Author | Syed Raheel Shahzad |
+| English Title | **Tomorrow Became a Country** |
+| Arabic Title | **غَدٌ صَارَ وَطَنًا** |
+| Subtitle | **How the UAE Engineered the Future as One System** |
+| Author | **Syed Raheel Shahzad** |
+| Arabic Author Name | **سيد راحيل شهزاد** |
 | Author Role | Author \| Group CEO \| Business Strategist \| Systems Thinker & Architect |
-| Imprint / Publisher | The Syed Group |
-| Publication Year | 2026 |
+| Publisher / Imprint | **The Syed Group** |
+| Publication Year | **2026** |
 | Book Type | Independent nonfiction systems study |
 | Primary Subject | United Arab Emirates |
-| Core Framework | Vision → Law → Execution → Openness → Growth → Global Influence |
-| Structure | Prologue, five parts, twenty-one chapters, evidence method, bibliography, appendices, and index |
-| Final Print Length | 422 pages |
-| Trim Size | 6 × 9 inches / 152 × 229 mm |
+| Core Framework | **Vision → Law → Execution → Openness → Growth → Global Influence** |
+| Structure | Prologue · 5 parts · 21 chapters · evidence method · bibliography · appendices · index |
+| Final Print Length | **422 pages** |
+| Trim Size | **6 × 9 inches / 152 × 229 mm** |
 | Primary Language | English |
-| Bilingual Elements | Arabic title, Arabic epigraphs, and bilingual works catalogue |
-| Paperback ISBN | To be added |
-| Hardcover ISBN | To be added |
-| EPUB ISBN | To be added |
-| Copyright | © 2026 Syed Raheel Shahzad |
-| Official Website | https://www.TomorrowBecameACountry.com |
+| Arabic / Bilingual Elements | Arabic title, Arabic epigraphs, Arabic public records and bilingual works references |
+| UAE Publication Permit | **MC-01-01-0593496** |
+| Age Classification | **E** |
+| Printed Book — Normal Cover | **ISBN 9789948612995** |
+| E-Book | **ISBN 9789948616191** |
+| Audiobook | **ISBN 9789948616344** |
+| Educational Programs | **ISBN 9789948614784** |
+| Braille Publications | **ISBN 9789948614630** |
+| Copyright | © 2026 Syed Raheel Shahzad. All rights reserved. |
+| Official Book Website | https://www.TomorrowBecameACountry.com |
 | Official Author Website | https://www.SyedRaheelShahzad.com |
 | Institutional Publisher | https://www.TheSyedGroup.com |
 
+> **Publication-status note:** the five ISBNs establish bibliographic identities for five publication formats. ISBN assignment does **not** by itself mean every format is already commercially available. Production, release, circulation and retail availability may differ by format.
+
 ---
 
-## Official Pages
+## Official Pages and Canonical Public Routes
 
-**Book Website:**  
-https://www.TomorrowBecameACountry.com
+### Official Book Platform
 
-**Book Page:**  
-https://www.TomorrowBecameACountry.com/book/
+- **Book Website:** https://www.TomorrowBecameACountry.com
+- **Book Page:** https://www.TomorrowBecameACountry.com/book/
+- **Arabic Book Record — غَدٌ صَارَ وَطَنًا:** https://www.TomorrowBecameACountry.com/غد-صار-وطنا/
+- **Publication Record:** https://www.TomorrowBecameACountry.com/publication-record-tomorrow-became-a-country/
+- **The System:** https://www.TomorrowBecameACountry.com/the-system/
+- **Research:** https://www.TomorrowBecameACountry.com/research/
+- **Author:** https://www.TomorrowBecameACountry.com/author/
+- **Articles:** https://www.TomorrowBecameACountry.com/articles/
+- **Newsroom:** https://www.TomorrowBecameACountry.com/newsroom/
+- **Press:** https://www.TomorrowBecameACountry.com/press/
+- **Voices:** https://www.TomorrowBecameACountry.com/voices/
+- **Updates:** https://www.TomorrowBecameACountry.com/updates/
+- **Ask SRS:** https://www.TomorrowBecameACountry.com/ask-srs/
+- **Contact:** https://www.TomorrowBecameACountry.com/contact/
 
-**The System:**  
-https://www.TomorrowBecameACountry.com/the-system/
+### Official Author Platform
 
-**Research:**  
-https://www.TomorrowBecameACountry.com/research/
+- **Official Author Website:** https://www.SyedRaheelShahzad.com
+- **Official Author Book Record:** https://www.SyedRaheelShahzad.com/tomorrow-became-a-country/
+- **Arabic TBAC Author Record — غَدٌ صَارَ وَطَنًا:** https://www.SyedRaheelShahzad.com/غد-صار-وطنا/
+- **Arabic Author Profile — سيد راحيل شهزاد:** https://www.SyedRaheelShahzad.com/ar-سيد-راحيل-شهزاد/
+- **Urdu Author Profile — سید راحیل شہزاد:** https://www.SyedRaheelShahzad.com/ur-سید-راحیل-شہزاد/
+- **Hindi Author Profile — सैयद राहील शहज़ाद:** https://www.SyedRaheelShahzad.com/hi-सैयद-राहील-शहज़ाद/
+- **Author Verification:** https://www.SyedRaheelShahzad.com/author-verification/
+- **Books Catalogue:** https://www.SyedRaheelShahzad.com/books/
+- **Publications and Research:** https://www.SyedRaheelShahzad.com/publications/
+- **Official Author Images:** https://www.SyedRaheelShahzad.com/official-author-images/
+- **Ask SRS:** https://ask.SyedRaheelShahzad.com
 
-**Author:**  
-https://www.TomorrowBecameACountry.com/author/
+### Publisher and Institutional Records
 
-**Articles:**  
-https://www.TomorrowBecameACountry.com/articles/
+- **The Syed Group:** https://www.TheSyedGroup.com
+- **The Syed Group UK:** https://www.TheSyedGroup.co.uk
+- **The Syed Group — Publishing Record:** https://www.TheSyedGroup.com/tomorrow-became-a-country-uae-systems-governance-growth/
+- **The Syed Group — Systems Study of National Development:** https://www.TheSyedGroup.com/tomorrow-became-a-country-systems-study-national-development/
+- **Syed Foundation:** https://www.SyedFoundation.com
+- **Syed Foundation — Learning, Education and Accessibility Record:** https://www.SyedFoundation.com/tomorrow-became-a-country-learning-vision-law-execution-national-development/
 
-**Newsroom:**  
-https://www.TomorrowBecameACountry.com/newsroom/
+### Repository and Public Knowledge Routes
 
-**Press:**  
-https://www.TomorrowBecameACountry.com/press/
+- **Official GitHub Profile:** https://github.com/SyedRaheelShahzad
+- **Public Profile / Method Repository:** https://github.com/SyedRaheelShahzad/syed-raheel-shahzad
+- **Official Books Repository:** https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-books
+- **Official Image Repository:** https://github.com/SyedRaheelShahzad/syed-raheel-shahzad-official-images
+- **The Source of Truth System™ Repository:** https://github.com/SyedRaheelShahzad/the-source-of-truth-system
+- **The Architect’s Protocol Repository:** https://github.com/SyedRaheelShahzad/the-architects-protocol
+- **Humanities Commons:** https://syedraheelshahzad.hcommons.org/
 
-**Voices:**  
-https://www.TomorrowBecameACountry.com/voices/
+### Stable Entity IDs
 
-**Updates:**  
-https://www.TomorrowBecameACountry.com/updates/
+These IDs should remain stable across the author website, book website, publisher pages and machine-readable public records:
 
-**Ask SRS:**  
-https://www.TomorrowBecameACountry.com/ask-srs/
+```text
+Author / Person:
+https://www.syedraheelshahzad.com/#person
 
-**Contact:**  
-https://www.TomorrowBecameACountry.com/contact/
+Book / Work:
+https://www.tomorrowbecameacountry.com/#book
 
-**Official Author Page for the Book:**  
-https://www.SyedRaheelShahzad.com/tomorrow-became-a-country/
+Publisher / Organization:
+https://www.thesyedgroup.com/#organization
+```
+
+The Arabic pages describe the **same author and same book entities**; they do not create separate Arabic entities.
 
 ---
 
@@ -1473,33 +1519,30 @@ United Arab Emirates; UAE; Tomorrow Became a Country; غَدٌ صَارَ وَط
 
 ```yaml
 book:
+  canonical_id: "https://www.tomorrowbecameacountry.com/#book"
   title: "Tomorrow Became a Country"
   arabic_title: "غَدٌ صَارَ وَطَنًا"
   subtitle: "How the UAE Engineered the Future as One System"
   type: "Independent nonfiction systems study"
   year: 2026
   language: "English"
-  bilingual_elements:
-    - "Arabic title"
-    - "Arabic epigraphs"
-    - "Bilingual works catalogue"
   page_count: 422
-  trim_size: "6 x 9 inches"
-  author:
-    name: "Syed Raheel Shahzad"
-    roles:
-      - "Author"
-      - "Group CEO"
-      - "Business Strategist"
-      - "Systems Thinker & Architect"
-    isni: "0000 0005 3022 8433"
-    orcid: "0009-0001-7323-1577"
-    wikidata: "Q139548931"
-    open_library: "OL16294997A"
-  publisher:
-    name: "The Syed Group"
-    institutional_isni: "0000 0005 3027 5408"
-    ringgold_id: "850493"
+  trim_size: "6 x 9 inches / 152 x 229 mm"
+  permit:
+    jurisdiction: "United Arab Emirates"
+    number: "MC-01-01-0593496"
+    age_classification: "E"
+  isbns:
+    - format: "Printed Book - Normal Cover"
+      isbn: "9789948612995"
+    - format: "E-Book"
+      isbn: "9789948616191"
+    - format: "Audiobook"
+      isbn: "9789948616344"
+    - format: "Educational Programs"
+      isbn: "9789948614784"
+    - format: "Braille Publications"
+      isbn: "9789948614630"
   framework:
     - "Vision"
     - "Law"
@@ -1517,77 +1560,174 @@ book:
       - "Umm Al Quwain"
       - "Ras Al Khaimah"
       - "Fujairah"
+  images:
+    cover: "https://syedraheelshahzad.com/wp-content/uploads/2026/07/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad.jpg"
+    isbn_record: "https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/Tomorrow-Became-a-Country-Book-ISBN-Syed-Raheel-Shahzad.jpg"
+    publication_record: "https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad-publication-record.jpg"
   official_urls:
     book_site: "https://www.TomorrowBecameACountry.com"
     book_page: "https://www.TomorrowBecameACountry.com/book/"
-    system_page: "https://www.TomorrowBecameACountry.com/the-system/"
-    research_page: "https://www.TomorrowBecameACountry.com/research/"
+    arabic_book_page: "https://www.TomorrowBecameACountry.com/غد-صار-وطنا/"
+    publication_record: "https://www.TomorrowBecameACountry.com/publication-record-tomorrow-became-a-country/"
+    author_book_page: "https://www.SyedRaheelShahzad.com/tomorrow-became-a-country/"
+    author_arabic_book_page: "https://www.SyedRaheelShahzad.com/غد-صار-وطنا/"
     author_site: "https://www.SyedRaheelShahzad.com"
     publisher_site: "https://www.TheSyedGroup.com"
-  rights:
-    copyright: "© 2026 Syed Raheel Shahzad"
-    license: "All rights reserved. No open-source license granted."
+    foundation_site: "https://www.SyedFoundation.com"
+    ask_srs: "https://ask.SyedRaheelShahzad.com"
+
+author:
+  canonical_id: "https://www.syedraheelshahzad.com/#person"
+  name: "Syed Raheel Shahzad"
+  name_arabic: "سيد راحيل شهزاد"
+  name_urdu: "سید راحیل شہزاد"
+  name_hindi: "सैयद राहील शहज़ाद"
+  roles:
+    - "Author"
+    - "Group CEO"
+    - "Business Strategist"
+    - "Systems Thinker & Architect"
+  isni: "0000 0005 3022 8433"
+  orcid: "0009-0001-7323-1577"
+  wikidata: "Q139548931"
+  google_scholar: "nRC4eGEAAAAJ"
+  open_library: "OL16294997A"
+
+publisher:
+  canonical_id: "https://www.thesyedgroup.com/#organization"
+  name: "The Syed Group"
+  institutional_isni: "0000 0005 3027 5408"
+  ringgold_id: "850493"
+
+rights:
+  copyright: "© 2026 Syed Raheel Shahzad"
+  status: "All rights reserved"
+  license_page: "https://www.SyedRaheelShahzad.com/legal-privacy/"
+  permissions_page: "https://www.SyedRaheelShahzad.com/contact/"
+
+publication_status:
+  note: "ISBN assignment creates a bibliographic identity for a format; it does not by itself confirm current commercial availability."
 ```
 
 ---
 
-# Machine-Readable JSON Reference
+# Machine-Readable JSON-LD Reference
 
 ```json
 {
   "@context": "https://schema.org",
-  "@type": "Book",
-  "name": "Tomorrow Became a Country",
-  "alternateName": "غَدٌ صَارَ وَطَنًا",
-  "headline": "How the UAE Engineered the Future as One System",
-  "inLanguage": "en",
-  "datePublished": "2026",
-  "numberOfPages": 422,
-  "bookFormat": [
-    "Paperback",
-    "Hardcover",
-    "EBook"
-  ],
-  "genre": [
-    "Nonfiction",
-    "Political Science",
-    "Public Policy",
-    "Economic Development",
-    "Middle East Studies",
-    "Systems Thinking"
-  ],
-  "about": [
-    "United Arab Emirates",
-    "UAE governance",
-    "Nation-building",
-    "Economic diversification",
-    "Public administration",
-    "Institutional execution",
-    "Rule of law",
-    "Trust",
-    "National development",
-    "Global influence"
-  ],
-  "author": {
-    "@type": "Person",
-    "name": "Syed Raheel Shahzad",
-    "url": "https://www.SyedRaheelShahzad.com",
-    "sameAs": [
-      "https://isni.org/isni/0000000530228433",
-      "https://orcid.org/0009-0001-7323-1577",
-      "https://www.wikidata.org/wiki/Q139548931",
-      "https://scholar.google.com/citations?user=nRC4eGEAAAAJ",
-      "https://openlibrary.org/authors/OL16294997A",
-      "https://www.goodreads.com/syedraheelshahzad"
-    ]
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "The Syed Group",
-    "url": "https://www.TheSyedGroup.com"
-  },
-  "image": "https://tomorrowbecameacountry.com/wp-content/uploads/2026/06/Tomorrow-Became-a-Country-Book-Cover.jpg",
-  "url": "https://www.TomorrowBecameACountry.com"
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.syedraheelshahzad.com/#person",
+      "name": "Syed Raheel Shahzad",
+      "alternateName": [
+        "سيد راحيل شهزاد",
+        "سید راحیل شہزاد",
+        "सैयद राहील शहज़ाद"
+      ],
+      "url": "https://www.SyedRaheelShahzad.com",
+      "sameAs": [
+        "https://isni.org/isni/0000000530228433",
+        "https://orcid.org/0009-0001-7323-1577",
+        "https://www.wikidata.org/wiki/Q139548931",
+        "https://scholar.google.com/citations?user=nRC4eGEAAAAJ",
+        "https://openlibrary.org/authors/OL16294997A",
+        "https://www.goodreads.com/syedraheelshahzad",
+        "https://github.com/SyedRaheelShahzad"
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.thesyedgroup.com/#organization",
+      "name": "The Syed Group",
+      "url": "https://www.TheSyedGroup.com",
+      "identifier": [
+        "ISNI 0000 0005 3027 5408",
+        "Ringgold 850493"
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.tomorrowbecameacountry.com/#book",
+      "name": "Tomorrow Became a Country",
+      "alternateName": "غَدٌ صَارَ وَطَنًا",
+      "headline": "How the UAE Engineered the Future as One System",
+      "inLanguage": "en",
+      "datePublished": "2026",
+      "numberOfPages": 422,
+      "isbn": [
+        "9789948612995",
+        "9789948616191",
+        "9789948616344",
+        "9789948614784",
+        "9789948614630"
+      ],
+      "author": {"@id": "https://www.syedraheelshahzad.com/#person"},
+      "publisher": {"@id": "https://www.thesyedgroup.com/#organization"},
+      "image": "https://syedraheelshahzad.com/wp-content/uploads/2026/07/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad.jpg",
+      "url": "https://www.TomorrowBecameACountry.com",
+      "about": [
+        "United Arab Emirates",
+        "UAE governance",
+        "Nation-building",
+        "Economic diversification",
+        "Public administration",
+        "Institutional execution",
+        "Rule of law",
+        "Systems thinking",
+        "National development",
+        "Global influence"
+      ],
+      "workExample": [
+        {"@id": "https://www.tomorrowbecameacountry.com/#edition-print"},
+        {"@id": "https://www.tomorrowbecameacountry.com/#edition-ebook"},
+        {"@id": "https://www.tomorrowbecameacountry.com/#edition-audio"},
+        {"@id": "https://www.tomorrowbecameacountry.com/#edition-educational"},
+        {"@id": "https://www.tomorrowbecameacountry.com/#edition-braille"}
+      ]
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.tomorrowbecameacountry.com/#edition-print",
+      "name": "Tomorrow Became a Country — Printed Book, Normal Cover",
+      "isbn": "9789948612995",
+      "isPartOf": {"@id": "https://www.tomorrowbecameacountry.com/#book"}
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.tomorrowbecameacountry.com/#edition-ebook",
+      "name": "Tomorrow Became a Country — E-Book",
+      "isbn": "9789948616191",
+      "isPartOf": {"@id": "https://www.tomorrowbecameacountry.com/#book"}
+    },
+    {
+      "@type": "Audiobook",
+      "@id": "https://www.tomorrowbecameacountry.com/#edition-audio",
+      "name": "Tomorrow Became a Country — Audiobook",
+      "isbn": "9789948616344",
+      "accessMode": "auditory",
+      "isPartOf": {"@id": "https://www.tomorrowbecameacountry.com/#book"}
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.tomorrowbecameacountry.com/#edition-educational",
+      "name": "Tomorrow Became a Country — Educational Programs Publication",
+      "isbn": "9789948614784",
+      "additionalType": "Educational Programs Publication",
+      "isPartOf": {"@id": "https://www.tomorrowbecameacountry.com/#book"}
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.tomorrowbecameacountry.com/#edition-braille",
+      "name": "Tomorrow Became a Country — Braille Publication",
+      "isbn": "9789948614630",
+      "additionalType": "Braille Publication",
+      "accessMode": "tactile",
+      "accessibilityFeature": "braille",
+      "isPartOf": {"@id": "https://www.tomorrowbecameacountry.com/#book"}
+    }
+  ]
 }
 ```
 
@@ -1614,21 +1754,33 @@ Shahzad, Syed Raheel. _Tomorrow Became a Country: How the UAE Engineered the Fut
   address   = {United Arab Emirates},
   language  = {English},
   url       = {https://www.TomorrowBecameACountry.com},
-  note      = {Arabic title: غَدٌ صَارَ وَطَنًا}
+  note      = {Arabic title: غَدٌ صَارَ وَطَنًا; UAE publication permit MC-01-01-0593496; ISBN records: 9789948612995, 9789948616191, 9789948616344, 9789948614784, 9789948614630}
 }
 ```
 
-## ISBN Note
+## ISBN and Publication-Format Note
 
-Paperback, hardcover, and digital ISBNs should be inserted into this repository when officially assigned.
+Five ISBNs are now recorded in the UAE publication permit record:
+
+- **Printed Book — Normal Cover:** 9789948612995
+- **E-Book:** 9789948616191
+- **Audiobook:** 9789948616344
+- **Educational Programs:** 9789948614784
+- **Braille Publications:** 9789948614630
+
+These ISBNs are format identifiers. They should not be interpreted as a statement that all five formats are currently in production, on sale, or simultaneously available. Commercial availability should be confirmed through the official book website.
 
 ---
 
 # Author Identity
 
-## Syed Raheel Shahzad
+## Syed Raheel Shahzad | سيد راحيل شهزاد
 
 **Author | Group CEO | Business Strategist | Systems Thinker & Architect**
+
+**Arabic:** سيد راحيل شهزاد  
+**Urdu:** سید راحیل شہزاد  
+**Hindi:** सैयद राहील शहज़ाद
 
 Syed Raheel Shahzad writes across systems, truth, governance, leadership, institutional order, faith, moral responsibility, human formation, and national development.
 
@@ -1681,6 +1833,21 @@ https://www.SyedRaheelShahzad.com/official-author-images/
 
 **Publications and Research Works:**  
 https://www.SyedRaheelShahzad.com/publications/
+
+**Arabic Author Profile:**  
+https://www.SyedRaheelShahzad.com/ar-سيد-راحيل-شهزاد/
+
+**Urdu Author Profile:**  
+https://www.SyedRaheelShahzad.com/ur-سید-راحیل-شہزاد/
+
+**Hindi Author Profile:**  
+https://www.SyedRaheelShahzad.com/hi-सैयद-राहील-शहज़ाद/
+
+**Arabic TBAC Author Record:**  
+https://www.SyedRaheelShahzad.com/غد-صار-وطنا/
+
+**Official TBAC Arabic Book Record:**  
+https://www.TomorrowBecameACountry.com/غد-صار-وطنا/
 
 ---
 
@@ -1761,6 +1928,15 @@ https://github.com/SyedRaheelShahzad/the-source-of-truth-system
 **The Architect’s Protocol Repository:**  
 https://github.com/SyedRaheelShahzad/the-architects-protocol
 
+**The Syed Group — TBAC Publishing Record:**  
+https://www.TheSyedGroup.com/tomorrow-became-a-country-uae-systems-governance-growth/
+
+**The Syed Group — TBAC Systems Study:**  
+https://www.TheSyedGroup.com/tomorrow-became-a-country-systems-study-national-development/
+
+**Syed Foundation — TBAC Learning / Accessibility Record:**  
+https://www.SyedFoundation.com/tomorrow-became-a-country-learning-vision-law-execution-national-development/
+
 **Recommended Repository Name for This Book:**  
 `tomorrow-became-a-country`
 
@@ -1810,6 +1986,8 @@ The repository can also function effectively with this README alone.
 
 # Repository Purpose
 
+> **Repository maintenance rule:** when official publication data changes, update the canonical record here rather than creating competing metadata. Keep the title, Arabic title, author names, canonical IDs, ISBNs, publisher identifiers and core URLs consistent across all first-party records.
+
 This repository is intended to serve as:
 
 - an official public reference page;
@@ -1858,6 +2036,42 @@ Tomorrow Became a Country
 → published under The Syed Group
 → official website TomorrowBecameACountry.com
 → independent nonfiction systems study of the United Arab Emirates
+```
+
+---
+
+# Connected Arabic and Institutional Record
+
+The public record is intentionally distributed across several first-party domains, with each page serving a different purpose while referring to the same Book, Person and Publisher entities.
+
+| Node | Primary Function | Canonical Route |
+|---|---|---|
+| Official Book Website | Definitive book platform | https://www.TomorrowBecameACountry.com |
+| Arabic Book Record | Definitive Arabic book landing page | https://www.TomorrowBecameACountry.com/غد-صار-وطنا/ |
+| Author Website | Author-side book and identity record | https://www.SyedRaheelShahzad.com/tomorrow-became-a-country/ |
+| Arabic Author-Side Book Record | Arabic book record connected to author identity | https://www.SyedRaheelShahzad.com/غد-صار-وطنا/ |
+| Arabic Author Profile | Arabic Person / author identity page | https://www.SyedRaheelShahzad.com/ar-سيد-راحيل-شهزاد/ |
+| The Syed Group | Publisher / institutional bibliographic record | https://www.TheSyedGroup.com/tomorrow-became-a-country-uae-systems-governance-growth/ |
+| The Syed Group Systems Study | Governance / national-development institutional context | https://www.TheSyedGroup.com/tomorrow-became-a-country-systems-study-national-development/ |
+| Syed Foundation | Education, accessibility and public-knowledge context | https://www.SyedFoundation.com/tomorrow-became-a-country-learning-vision-law-execution-national-development/ |
+| Ask SRS | Author questions, discussion and reader engagement | https://ask.SyedRaheelShahzad.com |
+
+This is a **connected entity architecture**, not a set of separate works. The preferred relationship remains:
+
+```text
+Syed Raheel Shahzad / سيد راحيل شهزاد
+        │ author of
+        ▼
+Tomorrow Became a Country / غَدٌ صَارَ وَطَنًا
+        │ published by
+        ▼
+The Syed Group
+        │ subject
+        ▼
+United Arab Emirates
+        │ framework
+        ▼
+Vision → Law → Execution → Openness → Growth → Global Influence
 ```
 
 ---
@@ -1922,33 +2136,61 @@ https://www.TomorrowBecameACountry.com
 
 ---
 
-# Official Book Cover
+# Official Book Cover and Public Visual Record
 
-![Official cover of Tomorrow Became a Country by Syed Raheel Shahzad](https://tomorrowbecameacountry.com/wp-content/uploads/2026/06/Tomorrow-Became-a-Country-Book-Cover.jpg)
+## Current Official Book Cover
+
+[![Official cover of Tomorrow Became a Country by Syed Raheel Shahzad](https://syedraheelshahzad.com/wp-content/uploads/2026/07/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad.jpg)](https://www.TomorrowBecameACountry.com)
 
 **Recommended image filename:**
 
 ```text
-tomorrow-became-a-country-book-cover-syed-raheel-shahzad.jpg
+tomorrow-became-a-country-syed-raheel-shahzad-official-book-cover.jpg
 ```
 
 **Recommended image title:**
 
 ```text
-Tomorrow Became a Country Book Cover | Syed Raheel Shahzad
+Tomorrow Became a Country — غَدٌ صَارَ وَطَنًا — Official Book Cover | Syed Raheel Shahzad
 ```
 
 **Recommended alt text:**
 
 ```text
-Official book cover for Tomorrow Became a Country: How the UAE Engineered the Future as One System — غَدٌ صَارَ وَطَنًا — by Syed Raheel Shahzad, an independent nonfiction study of the United Arab Emirates through vision, law, execution, openness, growth and global influence.
+Official book cover for Tomorrow Became a Country: How the UAE Engineered the Future as One System — غَدٌ صَارَ وَطَنًا — by Syed Raheel Shahzad — سيد راحيل شهزاد — an independent nonfiction systems study of the United Arab Emirates through Vision, Law, Execution, Openness, Growth and Global Influence.
 ```
 
 **Recommended caption:**
 
 ```text
-Tomorrow Became a Country — غَدٌ صَارَ وَطَنًا — How the UAE Engineered the Future as One System by Syed Raheel Shahzad, published by The Syed Group, 2026.
+Tomorrow Became a Country — غَدٌ صَارَ وَطَنًا — How the UAE Engineered the Future as One System by Syed Raheel Shahzad — سيد راحيل شهزاد. Published by The Syed Group, 2026.
 ```
+
+## Five-Format ISBN Record
+
+[![Tomorrow Became a Country five-format ISBN record](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/Tomorrow-Became-a-Country-Book-ISBN-Syed-Raheel-Shahzad.jpg)](https://www.TomorrowBecameACountry.com)
+
+## Official Publication Record
+
+[![Tomorrow Became a Country publication record](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/Tomorrow-Became-a-Country-Syed-Raheel-Shahzad-publication-record.jpg)](https://www.TomorrowBecameACountry.com/publication-record-tomorrow-became-a-country/)
+
+## Author Identifier Record
+
+[![Syed Raheel Shahzad author identifiers for Tomorrow Became a Country](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/syed-raheel-shahzad-author-identifiers-orcid-isni-wikidata-tomorrow-became-a-country.jpg)](https://www.SyedRaheelShahzad.com/author-verification/)
+
+## Reading Guide
+
+[![Reading guide for Tomorrow Became a Country](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/reading-guide-how-to-approach-tomorrow-became-a-country-syed-raheel-shahzad.jpg)](https://www.TomorrowBecameACountry.com/book/)
+
+## Media and Press Kit
+
+[![Media and press kit for Tomorrow Became a Country](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/media-press-kit-tomorrow-became-a-country-syed-raheel-shahzad.jpg)](https://www.TomorrowBecameACountry.com/press/)
+
+## Publisher Record
+
+[![The Syed Group publisher record for Tomorrow Became a Country](https://tomorrowbecameacountry.com/wp-content/uploads/2026/08/the-syed-group-publisher-record-tomorrow-became-a-country-syed-raheel-shahzad.jpg)](https://www.TheSyedGroup.com/tomorrow-became-a-country-uae-systems-governance-growth/)
+
+All visual assets remain subject to the stated rights and permissions. Their presence in this public repository does not create an open-content or open-source licence.
 
 ---
 
@@ -2041,6 +2283,17 @@ info@tomorrowbecameacountry.com
 
 **Author and Publishing Contact:**  
 books@syedraheelshahzad.com
+
+---
+
+# Record Maintenance
+
+**Current README revision:** 7 August 2026  
+**Primary public authority:** https://www.TomorrowBecameACountry.com  
+**Author authority:** https://www.SyedRaheelShahzad.com  
+**Publisher authority:** https://www.TheSyedGroup.com
+
+This README should be updated when a publication format moves from ISBN assignment into confirmed production or retail availability. Until then, the publication-status note above should remain in place.
 
 ---
 
