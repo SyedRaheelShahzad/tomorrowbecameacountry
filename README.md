@@ -1589,7 +1589,6 @@ author:
     - "Systems Thinker & Architect"
   isni: "0000 0005 3022 8433"
   orcid: "0009-0001-7323-1577"
-  wikidata: "Q139548931"
   google_scholar: "nRC4eGEAAAAJ"
   open_library: "OL16294997A"
 
@@ -1630,7 +1629,6 @@ publication_status:
       "sameAs": [
         "https://isni.org/isni/0000000530228433",
         "https://orcid.org/0009-0001-7323-1577",
-        "https://www.wikidata.org/wiki/Q139548931",
         "https://scholar.google.com/citations?user=nRC4eGEAAAAJ",
         "https://openlibrary.org/authors/OL16294997A",
         "https://www.goodreads.com/syedraheelshahzad",
@@ -1810,8 +1808,6 @@ His witness is part of the book’s evidence architecture, clearly distinguished
 **ORCID iD:**  
 [0009-0001-7323-1577](https://orcid.org/0009-0001-7323-1577)
 
-**Wikidata:**  
-[Q139548931](https://www.wikidata.org/wiki/Q139548931)
 
 **Google Scholar:**  
 https://scholar.google.com/citations?user=nRC4eGEAAAAJ
